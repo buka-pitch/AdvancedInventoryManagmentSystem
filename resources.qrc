@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ico">Pollock-Icons2-FillRates.png</file>
+        <file>aDF4vy.jpg</file>
+    </qresource>
+</RCC>

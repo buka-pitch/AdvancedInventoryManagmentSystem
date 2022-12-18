@@ -1,0 +1,32 @@
+project:
+    
+    [] user authentication
+    Nested:
+        [] create a user instace and methods @1h
+        [] encrypt all the passwords with bcrypt and hash @est(1h)
+        [] conncect and store users to the db and finish the login logic
+    
+    [] database
+    Nested:
+        [] Connect with postgresql
+        [] create a class that manages connection with the database
+        [] data insertion logic
+        [] data fetching logic
+        [] data updating logic
+        [] data removing logic
+        [] create a method to sync the postgresql data to mongo db to remote access
+
+    [] ui
+    Nested:
+        [] Login ui
+        [] MainWindow Ui
+        [] Setting page ui
+        [] admin configration ui (for advance configuration)
+
+- Advance parts
+project:
+    [] pollising
+    [] securing
+    [] licencing
+    []
+    
